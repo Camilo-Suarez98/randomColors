@@ -4,13 +4,9 @@ This is my first app using swift, it's an app to change the colors of a circle u
 
 This is the Launch screen:
 
-https://user-images.githubusercontent.com/68169750/193478276-82984047-c9e7-4e80-8693-477a15d62eb0.mov
+![Screen_Recording_2022-10-06_at_9_43_31_AM_AdobeExpress](https://user-images.githubusercontent.com/68169750/194344332-9b823100-808b-4459-92e8-036d20890a30.gif)
 
 
 and this is this is a simulation of the app:
 
-
-https://user-images.githubusercontent.com/68169750/193478340-a32ca2f0-4e87-40ec-909c-c99d20312b22.mov
-
-
-
+![Screen_Recording_2022-10-06_at_9_44_20_AM_AdobeExpress](https://user-images.githubusercontent.com/68169750/194344629-38edb785-f24f-4ccc-8a68-d450fe53c01f.gif)
