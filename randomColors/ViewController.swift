@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import PencilKit
 
 class ViewController: UIViewController {
     
@@ -53,17 +54,21 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-//         Do any additional setup after loading the view.
-        view.backgroundColor = .systemBlue
+
+        
         view.addSubview(square1)
         square1.center = view.center
         
         view.addSubview(button)
         button.addTarget(self, action: #selector(pressButton), for: .touchUpInside)
+        
+        changeColor(self)
     }
     
-    @objc func pressButton () {
+    @objc func pressButton() {
         square1.backgroundColor = colors.randomElement()
+        view.backgroundColor = colors.randomElement()
+        button.backgroundColor = colors.randomElement()
     }
     
     override func viewDidLayoutSubviews() {
@@ -75,6 +80,13 @@ class ViewController: UIViewController {
             width: view.frame.size.width - 50,
             height: 60
         )
+    }
+    
+    
+    @IBAction func changeColor(_ sender: Any) {
+        square1.backgroundColor = colors.randomElement()
+        view.backgroundColor = colors.randomElement()
+        button.backgroundColor = colors.randomElement()
     }
 }
 
