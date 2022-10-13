@@ -60,8 +60,6 @@ class ViewController: UIViewController {
         
         view.addSubview(button)
         button.addTarget(self, action: #selector(pressButton), for: .touchUpInside)
-        
-        changeColor(self)
     }
     
     @objc func pressButton() {
@@ -79,13 +77,6 @@ class ViewController: UIViewController {
             width: view.frame.size.width - 50,
             height: 60
         )
-    }
-    
-    
-    @IBAction func changeColor(_ sender: Any) {
-        square1.backgroundColor = colors.randomElement()
-        view.backgroundColor = colors.randomElement()
-        button.backgroundColor = colors.randomElement()
     }
 }
 
