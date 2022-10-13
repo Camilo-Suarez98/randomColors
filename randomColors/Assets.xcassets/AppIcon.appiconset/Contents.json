@@ -1,41 +1,49 @@
 {
   "images" : [
     {
+      "filename" : "Screenshot 2022-10-12 at 7.40.46 PM.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
     },
     {
+      "filename" : "Screenshot 2022-10-12 at 7.38.10 PM.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "20x20"
     },
     {
+      "filename" : "Screenshot 2022-10-12 at 7.38.10 PM 1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "Screenshot 2022-10-12 at 7.15.17 PM.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
     },
     {
+      "filename" : "Screenshot 2022-10-12 at 7.15.17 PM 1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "Screenshot 2022-10-12 at 7.13.43 PM 2.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "Screenshot 2022-10-12 at 7.13.43 PM 1.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "Screenshot 2022-10-12 at 7.11.08 PM.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -86,6 +94,7 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "Screenshot 2022-10-12 at 7.05.16 PM.png",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"

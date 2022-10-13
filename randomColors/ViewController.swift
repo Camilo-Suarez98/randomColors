@@ -54,7 +54,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         
         view.addSubview(square1)
         square1.center = view.center
